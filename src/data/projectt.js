@@ -29,12 +29,12 @@ const PROJECTS_DATA = {
             id: 2,
             title: "Novaplay Brand Design",
             description: "Comprehensive branding, logo design, and style guide for a crypto based startup.",
-            behance: "https://behance.net/yourusername/finance-app-ui"
+            behance: "https://www.behance.net/gallery/236232049/Novaplay-brand-Design"
         },
         {
             id: 2,
-            title: "EOI Portfolio Design",
-            description: "Comprehensive branding, logo design, and style guide for my graphics design brand.",
+            title: "The Pivot Collective Brand Identity",
+            description: "Comprehensive branding, logo design, and style guide for The Pivot Collective.",
             behance: "https://behance.net/yourusername/finance-app-ui"
         },
         {
