@@ -72,7 +72,7 @@ const EoiNavbar = () => {
         > 
             <Container>
                 <Navbar.Brand 
-                    href="#home" 
+                    href="#hero" 
                     style={brandStyle}
                     className="d-flex align-items-center"
                 >
@@ -110,7 +110,7 @@ const EoiNavbar = () => {
                         </Nav.Link>
                         
                         <Nav.Link 
-                            href="#project"
+                            href="#projects" 
                             style={linkStyle}
                             onMouseEnter={(e) => handleLinkHover(e, true)}
                             onMouseLeave={(e) => handleLinkHover(e, false)}

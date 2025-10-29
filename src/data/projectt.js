@@ -32,16 +32,22 @@ const PROJECTS_DATA = {
             behance: "https://www.behance.net/gallery/236232049/Novaplay-brand-Design"
         },
         {
-            id: 2,
+            id: 3,
             title: "The Pivot Collective Brand Identity",
-            description: "Comprehensive branding, logo design, and style guide for The Pivot Collective.",
+            description: "A brand that speaks to architectural purity, spatial intelligence, and timeless modernity. It’s not just about homes — it’s about curated habitats for the world’s refined few. This is not the full brand identity as it is still being developed.",
             behance: "https://behance.net/yourusername/finance-app-ui"
         },
         {
-            id: 2,
+            id: 4,
             title: "Novaplay Brand Design",
             description: "Comprehensive branding, logo design, and style guide for a crypto based startup.",
             behance: "https://behance.net/yourusername/finance-app-ui"
+        },
+        {
+            id: 5,
+            title: "Design for BEC Winery",
+            description: "Comprehensive Flyer Design for BEC Winery.",
+            behance: "https://www.behance.net/gallery/237517973/Designs-for-BEC-Winery"
         },
         // Add more graphic design projects here...
     ]

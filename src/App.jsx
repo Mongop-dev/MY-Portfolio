@@ -7,6 +7,7 @@ import Project from './components/project';
 import Services from './components/services';
 import Contact from './components/contact';
 import Footer from './components/footer';
+// import { Analytics } from "@vercel/analytics/next"
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Contact /> 
       </main>
       <Footer />
+      {/* <Analytics /> */}
     </>
   )
 }
