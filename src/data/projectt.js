@@ -39,9 +39,9 @@ const PROJECTS_DATA = {
         },
         {
             id: 4,
-            title: "Novaplay Brand Design",
-            description: "Comprehensive branding, logo design, and style guide for a crypto based startup.",
-            behance: "https://behance.net/yourusername/finance-app-ui"
+            title: "Flyer Design Library",
+            description: "A collection of flyer designs for various events and promotions.",
+            behance: "https://drive.google.com/drive/folders/10BrGoXQ0RUYOUaECEvxidQRsgIDC0-Wx"
         },
         {
             id: 5,

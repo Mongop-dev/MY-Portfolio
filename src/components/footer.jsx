@@ -150,7 +150,7 @@ const Footer = () => {
                                         }}>
                                             <Mail size={20} color={primaryBlue} />
                                         </div>
-                                        <span style={{ color: '#e2e8f0' }}>hello@eoiDesigns.com</span>
+                                        <span style={{ color: '#e2e8f0' }}>igweezekiel2021@gmail.com</span>
                                     </div>
                                     <div className="d-flex align-items-center mb-3">
                                         <div className="me-3 d-flex align-items-center justify-content-center" style={{
@@ -161,7 +161,7 @@ const Footer = () => {
                                         }}>
                                             <Phone size={20} color={primaryBlue} />
                                         </div>
-                                        <span style={{ color: '#e2e8f0' }}>+234 (0) 123 456 7890</span>
+                                        <span style={{ color: '#e2e8f0' }}>+234 (0) 915 842 3002</span>
                                     </div>
                                     <div className="d-flex align-items-center">
                                         <div className="me-3 d-flex align-items-center justify-content-center" style={{
